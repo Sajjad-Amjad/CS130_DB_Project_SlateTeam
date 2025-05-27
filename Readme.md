@@ -1,6 +1,5 @@
 # CS130 Database Systems - Slate Project
 
-## 🚀 Comprehensive Fiverr Clone Database System
 
 A complete freelance marketplace platform demonstrating advanced database design and implementation using SQL Server, featuring 19+ normalized entities with comprehensive business logic.
 
@@ -8,8 +7,8 @@ A complete freelance marketplace platform demonstrating advanced database design
 
 ## 👥 Group Members
 
-| Name | Student ID | Role |
-|------|------------|------|
+| Name | Student ID | 
+|------|------------|
 | **Sajjad Amjad** | 241876 
 | **Soban Farooq** | 241843
 | **Muhammad Ahmed** | 241801
