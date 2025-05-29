@@ -146,7 +146,7 @@ For the backend API, we use a separate database. The API will automatically crea
 
 ```bash
 # Navigate to backend directory
-cd Phase3_Backend_API/backend/
+cd Phase3_Backend_API/
 
 # Create virtual environment
 python -m venv venv
@@ -163,9 +163,6 @@ pip install -r requirements.txt
 
 ### Initialize and Start API
 ```bash
-# Initialize database (creates tables, triggers, procedures, etc.)
-python scripts/init.py
-
 # Start the API server
 python run.py
 ```
